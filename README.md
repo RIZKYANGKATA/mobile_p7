@@ -213,7 +213,8 @@ Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karen
 ```
 Output :
 
-![image](https://github.com/RIZKYANGKATA/mobile_p7/assets/88949529/734413c4-f846-4f03-ae65-fbb17b4162c6)
+![image](https://github.com/RIZKYANGKATA/mobile_p7/assets/88949529/c197a25e-6b7b-443e-87e7-835bd356f90d)
+
 
 
 
